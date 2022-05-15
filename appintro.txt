@@ -5,3 +5,6 @@ mechanic
 plumber
 maid
 gardener
+driver
+teacher
+carpenter
